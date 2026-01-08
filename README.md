@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishi Patel</h1>
-<h3 align="center">Information Technology Student | Web Developer | Java Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Java Developer | Information Technology Student | Web Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:patelrishi291105@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rishi-p-9a7383315/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/rishipatel017">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
@@ -19,9 +19,9 @@
 
 - 🎓 B.Tech IT Student at **A D Patel Institute of Technology** (CPI: **9.52**)
 - 🧑‍🎓 Diploma in Computer Engineering (**9.63 CGPA**)
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Web Development**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Web Development**
 - 🏁 Hackathon Participant – **Smart India Hackathon 2024**, **CREATO Hackathon 2023**
-- 🌱 Currently learning **Advanced Java, Flask, ML Models & DSA**
+- 🌱 Currently learning **Advanced Java, Flask, ML Algorithms & DSA**
 - 💬 Ask me about **Java, Python, Web Development, SQL**
 
 ---
@@ -71,26 +71,26 @@
 - Java, JSP & MySQL based web application
 - Secure authentication & full CRUD operations
 - Search, filter & responsive UI
-- Optimized database queries for performance
+- Optimized database queries
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishipatel017&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishipatel017&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishipatel017&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=rishipatel017&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishipatel017&layout=compact&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishipatel017&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishipatel017&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishipatel017&theme=github-dark)
 
 ---
 
