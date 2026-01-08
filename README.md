@@ -128,6 +128,7 @@ Passionate about writing clean, maintainable code and continuously improving pro
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishipatel017&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishipatel017&theme=github_dark" />
 </p>
+
 ---
 <p align="center">
   <b>🚀 Open to opportunities — let’s build something impactful together.</b>
