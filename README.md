@@ -101,7 +101,7 @@ A sophisticated web-based security tool combining AES-256 encryption (PBKDF2 key
 
 | Degree | Institution | Score |
 |---|---|---|
-| B.Tech — Information Technology (2024–2027) | A D Patel Institute of Technology | CPI: **9.52** |
+| B.Tech — Information Technology (2024–2027) | A D Patel Institute of Technology | CGPA: **9.82** |
 | Diploma — Computer Engineering | B & B Institute of Technology | CGPA: **9.63** |
 
 ---
